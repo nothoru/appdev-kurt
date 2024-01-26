@@ -1,4 +1,4 @@
-# appdev-kurt
+# Django installation
 * before starting python must be installed
 1. pip install django 
 2. python -m venv "[folder_name]" Ex. .venv
