@@ -10,6 +10,7 @@ To create a virtual environment:
 python -m venv "[folder_name]" 
 ```
 installing venv means you are using a virtual environment and to activate use `folder_name\Scripts\activate`.
+
 you can also just install locally.
 To create a django project which will generate basic structure and files use:
 ```
@@ -17,7 +18,7 @@ django-admin startproject "[folder_name]"
 ```
 here is the result:
 ```
-mysite/
+folder_name/
     manage.py
     mysite/
         __init__.py
