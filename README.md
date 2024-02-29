@@ -18,7 +18,7 @@ django-admin startproject "[folder_name]"
 ```
 here is the result:
 ```
-mysite/
+folder_name/
     manage.py
     mysite/
         __init__.py
