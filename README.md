@@ -1,6 +1,8 @@
 # Django installation
-* before starting python must be installed
-1. pip install django 
+* before starting python must be installed 
+```
+$ pip install django
+``` 
 2. python -m venv "[folder_name]" Ex. .venv
 - installing venv means you are using a virtual environment and to activate use .folder_name\Scripts\Activate
 - you can also just install locally
